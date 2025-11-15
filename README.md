@@ -6,7 +6,7 @@
 <h1 title> <p style="color:rgb(230, 92, 115);"> <a href="https://en.wikipedia.org/wiki/Pinkie_Pie" target="_blank"> Pinke pie </a> </p> </h1>
 
 <p style="color:rgb(111, 11, 11);"> Little red riding hood </p>
-<p title= "meow" </p>
+<p> meows >.< </p>
 
 </body>
 </html>
